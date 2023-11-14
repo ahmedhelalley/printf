@@ -1,11 +1,10 @@
 # _printf :page_facing_up:
 
-A formatted output conversion C program projet, it was done as part of the low-level
-programming and algorithm track at ALX. This program is a similar version of the C standard library function, `printf`.
+A formatted output conversion C program project, it was done as part of the Software Engineernig track at ALX. This program is a similar version of the C standard library function, `printf`.
 
 ## Dependencies 
 
-The `_printf` function was coded on an Ubuntu 14.04 LTS machine with `gcc` version 13.2.0.
+The `_printf` function was coded on an Ubuntu 20.04 LTS machine with `gcc` version 13.2.0.
 
 ## Usage 
 
