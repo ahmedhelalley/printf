@@ -1,6 +1,6 @@
 # _printf :page_facing_up:
 
-A formatted output conversion C program project, it was done as part of the Software Engineernig track at ALX. This program is a similar version of the C standard library function, `printf`.
+A formatted output conversion C program project, it was done as part of the Software Engineering track at ALX. This program is a similar version of the C standard library function, `printf`.
 
 ## Dependencies 
 
@@ -47,5 +47,6 @@ Prototype: `int _printf(const char *format, ...);`
 ### Return Value
 
 Upon successful return, `_printf` returns the number of characters printed
-(excluding the terminating null byte used to end output to strings).
+(excluding the terminating null byte used to end output to strings). 
+If an output error is encountered, the function returns -1.
 
